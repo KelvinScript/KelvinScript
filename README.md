@@ -25,10 +25,10 @@
   <br>
   <!-- Status do Perfil -->
   <h3>📊 Status 📊</h3>
-  <a href="https://github.com/KelvinPresterrigo">
+  <a href="https://github.com/KelvinScript">
     <img height="170" src="https://github-readme-stats.shion.dev/api?username=KelvinPresterrigo&theme=tokyonight&show_icons=true" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/KelvinPresterrigo">
+  <a href="https://github.com/KelvinScript">
     <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KelvinPresterrigo&layout=compact&theme=tokyonight" alt="Top Linguagens" />
   </a>
   <br>
