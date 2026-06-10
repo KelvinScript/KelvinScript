@@ -14,7 +14,7 @@
   <!-- Seção de Linguagens (Usando o Skill Icons) -->
   <h3>💻 Linguagens & Tecnologias 💻</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,ts,js,html,css,nodejs,react,java&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,python,ts,js,html,css,nodejs,react&theme=dark" alt="My Skills" />
   </a>
   <br>
   <!-- Seção de Ferramentas -->
